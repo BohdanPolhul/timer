@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-top: 40%;
+}
+h1{
+  color:wheat;
+}
+span{
+  color:wheat;
+  margin: 50px;
+  font-size: 30px;
+}
+button{
+  padding: 10px;
+  margin:  10px;
+}
+.stop{
+  background-color:red;
+}
+.start{
+  background-color:rgb(5, 126, 11);
+}
+.wait{
+  background-color:rgb(163, 216, 17);
+}
+.reset{
+  background-color:rgb(168, 97, 97);
+}
